@@ -1,9 +1,9 @@
 const cacheName = "EDWARD SMITH-BOOK OF BUSINESS-1.0";
 const contentToCache = [
     "Build/MYBOB.loader.js",
-    "Build/MYBOB.framework.js.gz",
-    "Build/MYBOB.data.gz",
-    "Build/MYBOB.wasm.gz",
+    "Build/MYBOB.framework.js",
+    "Build/MYBOB.data",
+    "Build/MYBOB.wasm",
     "TemplateData/style.css"
 
 ];
